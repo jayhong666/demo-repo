@@ -9,4 +9,6 @@
 # Bool
 
 print('Hello World!')
-print(4.5)
+
+name = input('Name: ')
+print(name)
